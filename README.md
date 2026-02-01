@@ -31,7 +31,7 @@ Firewall logs captured both **allowed and denied traffic**, providing detailed v
 Logs provided insight into **source/destination relationships, protocols, and port usage**, helping to distinguish normal traffic from reconnaissance activity.
 
 **Screenshots:**  
-`HomeLabScreenshots/destination.png`  
+![Destination](HomeLabScreenshots/destination.png)
 
 ---
 
