@@ -32,6 +32,8 @@ Logs provided insight into **source/destination relationships, protocols, and po
 
 **Screenshots:**  
 ![Destination](HomeLabScreenshots/destination.png)
+![Protocols](HomeLabScreenshots/protocols.png)
+![Ports](HomeLabScreenshots/ports.png)
 
 ---
 
@@ -53,7 +55,7 @@ Firewall logs captured connection attempts to key service ports, including:
 Scan results were cross-referenced with firewall logs to understand **open, closed, and filtered states**.
 
 **Screenshots:**  
-`HomeLabScreenshots/ipa.png`  
+![Filtered](HomeLabScreenshots/ipa.png)
 
 ---
 
@@ -67,7 +69,7 @@ Custom rules were implemented to control service access between internal hosts:
 Scan behavior confirmed **active enforcement of network policies**.
 
 **Screenshots:**  
-`HomeLabScreenshots/`  
+![Ping](HomeLabScreenshots/ping.png)
 
 ---
 
@@ -81,7 +83,7 @@ The firewall was positioned to inspect **all internal traffic**, enabling monito
 This setup reinforces **internal segmentation and inspection** for enhanced security.
 
 **Screenshots:**  
-`HomeLabScreenshots/traffic_monitoring.png`  
+![Block](HomeLabScreenshots/block.png)
 
 ---
 
@@ -95,7 +97,7 @@ Logs were treated as a primary source for analysis:
 This mimics **SOC workflows** for log correlation and security validation.
 
 **Screenshots:**  
-`HomeLabScreenshots/log_analysis.png`  
+![Cfg](HomeLabScreenshots/config.png)
 
 ---
 
