@@ -31,7 +31,7 @@ Firewall logs captured both **allowed and denied traffic**, providing detailed v
 Logs provided insight into **source/destination relationships, protocols, and port usage**, helping to distinguish normal traffic from reconnaissance activity.
 
 **Screenshots:**  
-`HomeLabScreenshots/firewall_logs.png`  
+`HomeLabScreenshots/destination.png`  
 
 ---
 
@@ -53,7 +53,7 @@ Firewall logs captured connection attempts to key service ports, including:
 Scan results were cross-referenced with firewall logs to understand **open, closed, and filtered states**.
 
 **Screenshots:**  
-`HomeLabScreenshots/nmap_scan.png`  
+`HomeLabScreenshots/ipa.png`  
 
 ---
 
@@ -67,7 +67,7 @@ Custom rules were implemented to control service access between internal hosts:
 Scan behavior confirmed **active enforcement of network policies**.
 
 **Screenshots:**  
-`HomeLabScreenshots/firewall_rules.png`  
+`HomeLabScreenshots/`  
 
 ---
 
